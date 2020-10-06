@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Cheatsheet 2</>
+</head>
+<style>
+body { 
+background-color: #44444;
+}
+<head>
+ <p>
+
+      <strong>meta</strong> &lt;meta charset="utf8" /&gt;
+
+</p>
+<title style="color: violet">HTML</>
+
+<body>
+<h1 style="color: darkblue">1. Name the components of html elements properly<h1>
+<p> They are defined by a start tag, some content and an end tag. For example <tagname>content<tagname> <p>
+
+<h1 style="color: darkblue">2. Identify void elements and how they are denoted>
+<p> 
+
+<h1 style="color: darkblue">3. Identify attributes <h1>
+
+
+<h1 style="color: darkblue">4. Write down the correct DOCTYPE declaration for html <h1>
+
+
+<h1 style="color: darkblue">5. Write down syntactically correct statements for the following elements 
+Article (<article>)
+Body (<body>)
+line break (<br/>)
+Headings (<h1>, ...)
+Section with meta-information (<head>)
+Top level element (<html>)
+Image named Team.jpg (<img src="Team.jpg">)
+Paragraph (<p>)
+Section (<section>)
+Label appearing in the title bar (<title>)
+Link to other pages (<a>)
+Comment
+Head with title and meta elements<h1>
+
+
+<title style="color: violet">CSS<style>
+
+<h1 style="color: darkblue">1. Name the components of a css rule properly<h1>
+
+
+<h1 style="color: darkblue">2. Use combinators properly: direct child, descendant, adjacent sibling, sibling<h1>
+
+
+<h1 style="color: darkblue">3. Specify colors by color names and in hexadecimal notation
+
+
+<h1 style="color: darkblue">
+
+
+<h1 style="color: darkblue">
+
+
+<h1 style="color: darkblue">
+
+
