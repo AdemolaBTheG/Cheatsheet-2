@@ -52,15 +52,39 @@ Head with title and meta elements<h1>
 <h1 style="color: darkblue">2. Use combinators properly: direct child, descendant, adjacent sibling, sibling<h1>
 
 
-<h1 style="color: darkblue">3. Specify colors by color names and in hexadecimal notation
+<h1 style="color: darkblue">3. Specify colors by color names and in hexadecimal notation<h1>
 
 
-<h1 style="color: darkblue">
+<h1 style="color: darkblue">4. Declarations for color,background color<h1>
+ 
+
+<h1 style="color: darkblue">5. Pseudo classes for the <a> element<h1>
 
 
-<h1 style="color: darkblue">
+<h1 style="color: darkblue">6. Declaration for background image<h1>
 
 
-<h1 style="color: darkblue">
+<h1 style="color: darkblue">7. Declaration for text alignment (left, right, center, justify)<h1>
+
+
+<h1 style="color: darkblue">8. Declaration for text decoration (overline, underline, line-through)<h1>
+
+
+<h1 style="color: darkblue">9. Declaration for text transformation (uppercase, lowercase, capitalize)<h1>
+
+
+<h1 style="color: darkblue">10. Identify the difference between serif and sans-serif fonts<h1>
+
+
+<h1 style="color: darkblue">11. Declarations for font families<h1>
+
+
+<h1 style="color: darkblue">12. Declarations for font style normal and italic<h1>
+
+
+<h1 style="color: darkblue">13. Declarations for font sizes<h1>
+
+
+<h1 style="color: darkblue">14. Declarations for font weights<h1>
 
 
