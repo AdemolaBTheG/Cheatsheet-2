@@ -20,13 +20,15 @@ background-color: #44444;
 <p> They are defined by a start tag, some content and an end tag. For example <tagname>content<tagname> <p>
 
 <h1 style="color: darkblue">2. Identify void elements and how they are denoted>
-<p> 
+<p>Empty elements are usually called void elements and "br" are linebreaks<p>
 
 <h1 style="color: darkblue">3. Identify attributes <h1>
+<p>All html Elements can have attributes, they provide additional informationo about elements and are always specified in the start tag.
+They usually come in name=value<p>
 
 
 <h1 style="color: darkblue">4. Write down the correct DOCTYPE declaration for html <h1>
-
+<p> "!DOCTYPE html" <p>
 
 <h1 style="color: darkblue">5. Write down syntactically correct statements for the following elements 
 Article (<article>)
@@ -47,7 +49,7 @@ Head with title and meta elements<h1>
 <title style="color: violet">CSS<style>
 
 <h1 style="color: darkblue">1. Name the components of a css rule properly<h1>
-
+<p> selector,declaration, property, value, declaration,propery, value<p>
 
 <h1 style="color: darkblue">2. Use combinators properly: direct child, descendant, adjacent sibling, sibling<h1>
 
