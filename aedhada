@@ -79,14 +79,38 @@ Head with title and meta elements<h1>
 
 
 <h1 style="color: darkblue">11. Declarations for font families<h1>
-
+<p>generic family - a group of font families with a similar look (like "Serif" or "Monospace")
+font family - a specific font family (like "Times New Roman" or "Arial")<p>
 
 <h1 style="color: darkblue">12. Declarations for font style normal and italic<h1>
+<p>This property has three values:
 
+normal - The text is shown normally
+italic - The text is shown in italics
+oblique - The text is "leaning" (oblique is very similar to italic, but less supported)
+
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}<p>
 
 <h1 style="color: darkblue">13. Declarations for font sizes<h1>
 
 
-<h1 style="color: darkblue">14. Declarations for font weights<h1>
 
+<h1 style="color: darkblue">14. Declarations for font weights<h1>
+<p> The font-weight property specifies the weight of a font: p.normal {
+  font-weight: normal;
+}
+
+p.thick {
+  font-weight: bold;
+}<p>
 
